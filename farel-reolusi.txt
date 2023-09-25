@@ -2,3 +2,5 @@ FAREL RESOLUSI
 - Saya ingin konsisten untuk belajar seputar web programming setidaknya 3-5 jam sehari
 - Mempelajari struktur dari sebuah website dan dasar dari html,css
 - Mengimplementasikannya dalam bentuk source code
+- Memahami penggunaan dari setiap tag html beserta atributnya
+- Memahami Property css dan value nya
