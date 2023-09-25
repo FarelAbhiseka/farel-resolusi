@@ -2,8 +2,10 @@ RENCANA STUDI WEBSITE
 
 - Belajar membuat website kedai makanan
 * Tahapan awal yakni belajar mengenai front end website dan fundamental
+  ^ Membuat tampilan website interaktif
 * Melakukan implementasi responsive menggunakan media queries
+  ^ Menyesuaikan dengan ukuran handphone, dan tablet
 - Belajar membuat website portofolio
-  ^ Mengembangkan kreativitas dan memamerkan project 
-  ^ Mengenalkan diri sendiri
+  ^ Membuat website portofolio dengan konsep minimalis dan responsive
+- Belajar membuat website blog
 
