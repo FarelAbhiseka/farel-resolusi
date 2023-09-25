@@ -1,5 +1,7 @@
 RENCANA STUDI WEBSITE
 
 - Belajar membuat website kedai makanan
+* Tahapan awal yakni belajar mengenai front end website dan fundamental
+* Melakukan implementasi responsive menggunakan media queries
 - Belajar membuat website portofolio
 - Belajar membuat website blog
